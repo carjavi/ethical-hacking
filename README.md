@@ -13,13 +13,12 @@
 - [Table of contents](#table-of-contents)
 - [Bad USB](#bad-usb)
 - [Troubleshooting](#troubleshooting)
-- [ethical-hacking](#ethical-hacking)
 
 <br>
 
 # Bad USB
 
-<p align="center"><img src="./img/USB-Bad.png" width="500"   alt=" " /></p>
+<p align="center"><img src="./img/USB-Bad.png" width="800"   alt=" " /></p>
 
 <br>
 
@@ -53,5 +52,5 @@
     <a href="https://instintodigital.net/" target="_blank"><img src="./img/developer.png" height="100" alt="www.instintodigital.net"></a>
 </p>
 
-# ethical-hacking
+
 
